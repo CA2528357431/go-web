@@ -1,0 +1,21 @@
+{{define "main"}}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>hello world</title>
+</head>
+<body>
+
+    <h3>main is {{.}}</h3><br>
+
+    {{template "append"  "neo neo neo" }}
+
+    <h3>main is {{.}}</h3><br>
+
+</body>
+</html>
+{{end}}
+
+{{define "append"}}
+<h4>this is append {{.}}</h4><br>
+{{end}}

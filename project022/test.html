@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>hello world</title>
+</head>
+<body>
+    {{range $key,$value := .}}
+    <h3>key is {{$key}}</h3>
+    <h3>value is {{$value}}</h3>
+    {{end}}
+</body>
+</html>

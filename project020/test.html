@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>hello world</title>
+</head>
+<body>
+    <h3>point is {{.}}</h3><br>
+    {{with "dont"}}
+    <h3>change into {{.}}</h3><br>
+    {{else}}
+    <h3>come back to {{.}}</h3><br>
+    {{end}}
+    <h3>still {{.}}</h3><br>
+</body>
+</html>
