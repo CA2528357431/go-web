@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba0c513f-efad-464d-9eef-5fb561a681f5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/project036/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project036/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project036/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project036/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project036/src/main/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project036/test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project037/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project037/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project037/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project037/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project037/src/main/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project037/test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project038/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project038/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project038/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project038/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project038/src/main/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project038/test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project039/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project039/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project039/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project039/src/main/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project040/data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project040/src/main/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../GO" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1z7hKlE5UPXpjSckuM0zmWSIu05" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.formatter.settings.were.checked" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../go_web_application/project001" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\goproject\src\go_web" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

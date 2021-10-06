@@ -33,3 +33,8 @@
 33. postgres 读取多个row
 34. postgres foreign-key
 35. sqlx
+36. xml反序列化为struct
+37. xml反序列化的树形嵌套 
+38. 序列化产生xml
+39. 序列化产生json
+40. json反序列化为struct

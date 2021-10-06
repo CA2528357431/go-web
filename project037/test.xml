@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<mypost id="1">
+    hello world
+    <content>nice to meet u</content>
+    <username>caoan</username>
+
+    <comments>
+        <acomment id="3">
+            <content>hello</content>
+            <username>zyl</username>
+        </acomment>
+        <acomment id="5">
+            <content>glad</content>
+            <username>zyl</username>
+        </acomment>
+        <bcomment id="4">
+            <content>nobody</content>
+        </bcomment>
+        <bcomment id="6">
+            <content>silence</content>
+        </bcomment>
+    </comments>
+
+</mypost>
+

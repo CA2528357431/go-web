@@ -1,0 +1,20 @@
+<Post id="7">
+  	<content>hello world</content>
+  	<username>caoan</username>
+  	<comments>
+  		<acomment id="1">
+  			<content>well</content>
+  			<username>caoan</username>
+  		</acomment>
+  		<acomment id="2">
+  			<content>honey</content>
+  			<username>zyl</username>
+  		</acomment>
+  		<bcomment id="6">
+  			<content>my lover</content>
+  		</bcomment>
+  		<bcomment id="8">
+  			<content>i like it</content>
+  		</bcomment>
+  	</comments>
+</Post>
